@@ -1,5 +1,5 @@
 # FYS-STK4155
-First assignment\
+Second assignment\
 Simen Stjernen\
 Taha Mohamed Ali\
 Diriba T.Dumesso
